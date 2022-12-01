@@ -1,0 +1,13 @@
+E:\Курсовая\CauchyMethods\bin\Debug\CauchyMethods.dll
+E:\Курсовая\CauchyMethods\bin\Debug\CauchyMethods.pdb
+E:\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.csproj.AssemblyReference.cache
+E:\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.csproj.CoreCompileInputs.cache
+E:\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.dll
+E:\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\bin\Debug\CauchyMethods.dll.config
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\bin\Debug\CauchyMethods.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\bin\Debug\CauchyMethods.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Debug\CauchyMethods.pdb

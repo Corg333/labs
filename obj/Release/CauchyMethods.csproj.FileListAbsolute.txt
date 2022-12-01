@@ -1,0 +1,19 @@
+E:\Курсовая\CauchyMethods\bin\Release\CauchyMethods.dll
+E:\Курсовая\CauchyMethods\bin\Release\CauchyMethods.pdb
+E:\Курсовая\CauchyMethods\obj\Release\CauchyMethods.csproj.AssemblyReference.cache
+E:\Курсовая\CauchyMethods\obj\Release\CauchyMethods.csproj.CoreCompileInputs.cache
+E:\Курсовая\CauchyMethods\obj\Release\CauchyMethods.dll
+E:\Курсовая\CauchyMethods\obj\Release\CauchyMethods.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\bin\Release\CauchyMethods.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\bin\Release\CauchyMethods.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Release\CauchyMethods.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Release\CauchyMethods.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\obj\Release\CauchyMethods.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\CauchyMethods\bin\Release\CauchyMethods.dll.config
+E:\Source\CauchyMethods\bin\Release\CauchyMethods.dll.config
+E:\Source\CauchyMethods\bin\Release\CauchyMethods.dll
+E:\Source\CauchyMethods\bin\Release\CauchyMethods.pdb
+E:\Source\CauchyMethods\obj\Release\CauchyMethods.csproj.CoreCompileInputs.cache
+E:\Source\CauchyMethods\obj\Release\CauchyMethods.dll
+E:\Source\CauchyMethods\obj\Release\CauchyMethods.pdb
+E:\Source\CauchyMethods\obj\Release\CauchyMethods.csprojAssemblyReference.cache
