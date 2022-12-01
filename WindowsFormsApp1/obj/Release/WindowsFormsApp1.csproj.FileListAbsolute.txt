@@ -1,0 +1,98 @@
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyMethods.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\ZedGraph.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyMethods.pdb
+E:\Курсовая\WindowsFormsApp1\bin\Release\ZedGraph.xml
+E:\Курсовая\WindowsFormsApp1\bin\Release\de\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\es\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\fr\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\hu\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\it\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\ja\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\pt\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\ru\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\sk\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\sv\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\tr\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\zh-cn\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\bin\Release\zh-tw\ZedGraph.resources.dll
+E:\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyMethods.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\ZedGraph.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyMethods.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\ZedGraph.xml
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.exe.config
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.exe
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.exe
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.pdb
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyMethods.dll.config
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.exe.manifest
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.application
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.exe.manifest
+C:\Users\Анна\Desktop\Копия флешки\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.application
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.exe.config
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.exe.manifest
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.application
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.exe
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyProblem.pdb
+E:\Курсовая\WindowsFormsApp1\bin\Release\CauchyMethods.dll.config
+E:\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.exe.manifest
+E:\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.application
+E:\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.exe
+E:\Курсовая\WindowsFormsApp1\obj\Release\CauchyProblem.pdb
+E:\Source\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Source\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\Source\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\Source\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Source\WindowsFormsApp1\obj\Release\CauchyProblem.exe
+E:\Source\WindowsFormsApp1\obj\Release\CauchyProblem.pdb
+E:\Source\WindowsFormsApp1\bin\Release\CauchyProblem.exe.config
+E:\Source\WindowsFormsApp1\bin\Release\CauchyProblem.exe.manifest
+E:\Source\WindowsFormsApp1\bin\Release\CauchyProblem.application
+E:\Source\WindowsFormsApp1\bin\Release\CauchyProblem.exe
+E:\Source\WindowsFormsApp1\bin\Release\CauchyProblem.pdb
+E:\Source\WindowsFormsApp1\bin\Release\CauchyMethods.dll
+E:\Source\WindowsFormsApp1\bin\Release\CauchyMethods.pdb
+E:\Source\WindowsFormsApp1\bin\Release\CauchyMethods.dll.config
+E:\Source\WindowsFormsApp1\bin\Release\ZedGraph.xml
+E:\Source\WindowsFormsApp1\bin\Release\de\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\es\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\fr\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\hu\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\it\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\ja\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\pt\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\ru\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\sk\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\sv\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\tr\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\zh-cn\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\bin\Release\zh-tw\ZedGraph.resources.dll
+E:\Source\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Source\WindowsFormsApp1\obj\Release\CauchyProblem.exe.manifest
+E:\Source\WindowsFormsApp1\obj\Release\CauchyProblem.application
+E:\Source\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
