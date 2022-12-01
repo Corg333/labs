@@ -1,0 +1,12 @@
+E:\C#\LR1\WinFormsApp1\ClassLibraryForArray1\bin\Debug\ClassLibraryForArray1.dll
+E:\C#\LR1\WinFormsApp1\ClassLibraryForArray1\bin\Debug\ClassLibraryForArray1.pdb
+E:\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.csproj.CoreCompileInputs.cache
+E:\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.dll
+E:\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.pdb
+E:\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.csprojAssemblyReference.cache
+E:\3 курс\C#\LR1\WinFormsApp1\ClassLibraryForArray1\bin\Debug\ClassLibraryForArray1.dll
+E:\3 курс\C#\LR1\WinFormsApp1\ClassLibraryForArray1\bin\Debug\ClassLibraryForArray1.pdb
+E:\3 курс\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.csprojAssemblyReference.cache
+E:\3 курс\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.csproj.CoreCompileInputs.cache
+E:\3 курс\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.dll
+E:\3 курс\C#\LR1\WinFormsApp1\ClassLibraryForArray1\obj\Debug\ClassLibraryForArray1.pdb

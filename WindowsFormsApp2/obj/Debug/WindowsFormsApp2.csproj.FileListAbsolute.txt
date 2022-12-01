@@ -1,0 +1,26 @@
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\ClassLibraryForArray1.dll
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\ClassLibraryForArray1.pdb
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MyForm.resources
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\ClassLibraryForArray1.dll
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\bin\Debug\ClassLibraryForArray1.pdb
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MyForm.resources
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\3 курс\C#\LR1\WinFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
