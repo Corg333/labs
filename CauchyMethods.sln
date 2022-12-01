@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauchyMethods", "CauchyMethods.csproj", "{A0552EE2-C575-473D-92AA-C2B0D1B8A08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{1ABC3E70-D476-44AA-917F-7806D1F10D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0552EE2-C575-473D-92AA-C2B0D1B8A08E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A0552EE2-C575-473D-92AA-C2B0D1B8A08E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A0552EE2-C575-473D-92AA-C2B0D1B8A08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0552EE2-C575-473D-92AA-C2B0D1B8A08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABC3E70-D476-44AA-917F-7806D1F10D23}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABC3E70-D476-44AA-917F-7806D1F10D23}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1ABC3E70-D476-44AA-917F-7806D1F10D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABC3E70-D476-44AA-917F-7806D1F10D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695D9E78-8281-4BDE-B598-A80F0405B55C}
+	EndGlobalSection
+EndGlobal
